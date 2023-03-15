@@ -1,7 +1,31 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
 .nav-container {
     height: 100px;
     width: 100%;
     background-color: #ABF62D !important;
+}
+
+.navbar-light .navbar-toggler {
+    color: transparent;
+    border-color: transparent;
+}
+
+.offcanvas-header {
+    background-image: linear-gradient(#D6A3FB, #c17af5);
+}
+
+.offcanvas-svg {
+    background-color: #abf62d;
+}
+
+.offcanvas-body {
+    background-image: linear-gradient(#abf62d, #9bf403);
 }
 
 .po-blue-text {
@@ -12,7 +36,7 @@
 .home-section {
     background-image: linear-gradient(#abf62d, #9bf403);
     /* background-color: #ABF62D; */
-    height: 200px;
+    height: 300px;
     width: 100%;
     margin-top: 100px;
 }
@@ -20,7 +44,7 @@
 .home-section-one {
     /* background-image: linear-gradient(#abf62d, #9bf403); */
     background-color: #9bf403;
-    height: 237px;
+    max-height: 280px;
     width: 100%;
     
 }
@@ -28,7 +52,7 @@
 .home-section-two {
     background-image: linear-gradient(#D6A3FB, #c17af5);
     /* background-color: #D6A3FB; */
-    height: 200px;
+    height: 400px;
     width: 100%;
 }
 
