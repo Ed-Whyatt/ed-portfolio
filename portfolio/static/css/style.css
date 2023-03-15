@@ -1,0 +1,41 @@
+.nav-container {
+    height: 100px;
+    width: 100%;
+    background-color: #1d2f59 !important;
+}
+
+.po-blue-text {
+    color: #1d2f59;
+    font-size: 10px;
+}
+
+.home-section-one {
+    background-image: linear-gradient(#1d2f59, #030d25);
+    height: 337px;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.home-section-two {
+    background-color: #190c40;
+    height: 200px;
+    width: 100%;
+}
+
+.home-section-three {
+    height: 356px;
+    width: 100%;
+    background-color: #fff;
+}
+
+.home-section-four {
+    height: 200px;
+    width: 100%;
+    background-color: #fff;
+}
+
+.home-section-five {
+    background-color: #190c40;
+    height: 365px;
+    width: 100%;
+}
