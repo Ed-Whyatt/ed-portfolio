@@ -1,7 +1,7 @@
 .nav-container {
     height: 100px;
     width: 100%;
-    background-color: #1d2f59 !important;
+    background-color: #ABF62D !important;
 }
 
 .po-blue-text {
@@ -9,15 +9,25 @@
     font-size: 10px;
 }
 
-.home-section-one {
-    background-image: linear-gradient(#1d2f59, #030d25);
-    height: 337px;
+.home-section {
+    background-image: linear-gradient(#abf62d, #9bf403);
+    /* background-color: #ABF62D; */
+    height: 200px;
     width: 100%;
     margin-top: 100px;
 }
 
+.home-section-one {
+    /* background-image: linear-gradient(#abf62d, #9bf403); */
+    background-color: #9bf403;
+    height: 237px;
+    width: 100%;
+    
+}
+
 .home-section-two {
-    background-color: #190c40;
+    background-image: linear-gradient(#D6A3FB, #c17af5);
+    /* background-color: #D6A3FB; */
     height: 200px;
     width: 100%;
 }
